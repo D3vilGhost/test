@@ -44,7 +44,7 @@
         height:2.25rem;
     }
     #about-us{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/about-us2.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/about-us.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
