@@ -44,27 +44,27 @@
         height:2.25rem;
     }
     #about-us{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../public/about-us2.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/about-us2.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
     #objective{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../public/objectives.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/objectives.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
     #vision{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../public/vision.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/vision.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
     #mission{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../public/mission.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/mission.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
     #services{
-        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../public/services.png");
+        background: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("./public/services.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
